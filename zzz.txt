@@ -1,0 +1,18 @@
+if Ergebnis<1001 then
+       ShowMessage('Stop playing, uninstall, and go away cuz u r so bad'+char(13)+'Your score: '+inttostr(Ergebnis))
+       else if Ergebnis<2001 then
+       ShowMessage('I bet this is ur fst time with computers'+char(13)+'Your score: '+inttostr(Ergebnis))
+       else if Ergebnis<3001 then
+       ShowMessage('Three lines? I didnt thought u could get this far *laughing emoji*'+char(13)+'Your score: '+inttostr(Ergebnis))
+       else if Ergebnis<4001 then
+       ShowMessage('Not bad...'+char(13)+'Your score: '+inttostr(Ergebnis))
+       else if Ergebnis<5001 then
+       ShowMessage('How could u? R u cheating?'+char(13)+'Your score: '+inttostr(Ergebnis))
+       else if Ergebnis<6001 then
+       ShowMessage('This game was supposed to be hardcore, how did u do that?'+char(13)+'Your score: '+inttostr(Ergebnis))
+       else if Ergebnis<7001 then
+       ShowMessage('*Applauses*'+char(13)+'Your score: '+inttostr(Ergebnis))
+       else if Ergebnis<8001 then
+       ShowMessage('R u god?'+char(13)+'Your score: '+inttostr(Ergebnis))
+       else
+       ShowMessage('If u would have made just one more line I would have call u to play big leagues'+char(13)+'Your score: '+inttostr(Ergebnis))
